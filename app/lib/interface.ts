@@ -10,4 +10,5 @@ export interface simpleBlogCard {
     title: string;
     content: any;
     titleImage: any;
+    publishedAt: string;
   }
